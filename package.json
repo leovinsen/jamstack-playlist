@@ -1,0 +1,22 @@
+{
+  "name": "jamstack-music",
+  "version": "1.0.0",
+  "description": "Playlist app",
+  "author": "Leonardo Vinsen",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "node-sass": "^4.13.1",
+    "nuxt": "^2.0.0",
+    "request": "^2.88.2",
+    "sass-loader": "^8.0.2"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "^0.6.0"
+  }
+}
