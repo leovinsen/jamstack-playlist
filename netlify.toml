@@ -6,3 +6,4 @@
 [dev]
     port = 3000
     command = "yarn dev"
+    functions = "./functions"
